@@ -1,0 +1,28 @@
+﻿  源.cpp
+E:\C++实现\Game\GameEasyXVersion\Math.h(5,30): warning C4305: “初始化”: 从“double”到“float”截断
+E:\C++实现\Game\GameEasyXVersion\Math.h(46,9): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Math.h(47,9): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Object.h(59,59): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Object.h(59,46): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Object.h(59,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Object.h(59,23): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Object.h(75,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Object.h(76,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Object.h(77,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Object.h(78,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Object.h(79,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Object.h(80,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Object.h(112,32): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Object.h(112,29): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Object.h(112,20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\源.cpp(32,20): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\源.cpp(32,45): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\源.cpp(32,40): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\源.cpp(33,23): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\源.cpp(33,45): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\源.cpp(33,36): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\源.cpp(34,37): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\源.cpp(35,34): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\源.cpp(62,9): warning C4244: “参数”: 从“float”转换到“DWORD”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\源.cpp(23,6): warning C4101: “t”: 未引用的局部变量
+  GameEasyXVersion.vcxproj -> E:\C++实现\Game\Debug\GameEasyXVersion.exe
