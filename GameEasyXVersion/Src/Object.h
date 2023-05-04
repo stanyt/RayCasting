@@ -1,5 +1,5 @@
 #include"Math.h"
-#include<graphics.h>
+#include"pch.h"
 class Object
 {
 public:
@@ -8,31 +8,11 @@ public:
 	Object(int edgenum) :edgeNum(edgenum) {
 		edge = new Line[edgeNum]();
 	}
-	~Object() {
+	virtual ~Object() {
 		delete[]edge;
 	}
 	void virtual DrawSelf()=0;
-	void virtual Intersection(const Ray&r,float& outCurrentDepth, Object*& outColliderObj) {
-		//œ‡Ωª
-		float deltaX, deltaY, t;
-		Point2 p;
-		for (int i = 0; i < edgeNum; ++i) {
-			deltaX = edge[i].endPos.X - edge[i].startPos.X;
-			deltaY = edge[i].endPos.Y - edge[i].startPos.Y;
-			t = (deltaY * (r.startPos.X - edge[i].startPos.X) - deltaX * (r.startPos.Y - edge[i].startPos.Y)) /
-				(r.direction.Y * deltaX - r.direction.X * deltaY);
-			if (t < 0) continue;
-			if (t >= outCurrentDepth) continue;
-			p.X = r.startPos.X + r.direction.X * t;
-			p.Y = r.startPos.Y + r.direction.Y * t;
-			if (((p.X <= edge[i].startPos.X && p.X <= edge[i].endPos.X) || (p.X > edge[i].startPos.X && p.X > edge[i].endPos.X))
-				&& ((p.Y <= edge[i].startPos.Y && p.Y <= edge[i].endPos.Y) || (p.Y > edge[i].startPos.Y && p.Y > edge[i].endPos.Y))) {
-				continue;
-			}
-			outCurrentDepth = t;
-			outColliderObj = this;
-		}
-	}
+	void virtual Intersection(const Ray& r, float& outCurrentDepth, Object*& outColliderObj);
 };
 
 class Rect:public Object
@@ -40,7 +20,7 @@ class Rect:public Object
 private:
 	Point2 leftUp, rightDown;
 public:
-	Rect(Point2 lu, Point2 rd) :leftUp(lu), rightDown(rd),Object(4){
+	Rect(Point2 lu, Point2 rd) :Object(4),leftUp(lu), rightDown(rd){
 		edge[0].startPos = lu;
 		lu.X = rd.X;
 		edge[0].endPos = lu;
@@ -53,7 +33,7 @@ public:
 		lu.X = leftUp.X;
 		edge[3].endPos = lu;
 	}
-	virtual void DrawSelf() {
+	inline void DrawSelf() override {
 		fillrectangle(leftUp.X, leftUp.Y, rightDown.X, rightDown.Y);
 	}
 };
@@ -77,7 +57,7 @@ public:
 		v[2].x = points[2].X;
 		v[2].y = points[2].Y;
 	}
-	virtual void DrawSelf() {
+	void DrawSelf() override {
 		fillpolygon(v, 3);
 	}
 };
@@ -87,26 +67,8 @@ class Circle :public Object {
 	float radius;
 public:
 	Circle(Point2 c,float r):radius(r),center(c),Object(1){}
-	void virtual Intersection(const Ray& r, float& outCurrentDepth, Object*& outColliderObj) {
-		float a = r.direction.X* r.direction.X + r.direction.Y* r.direction.Y;
-		float b = 2 * (r.startPos.X * r.direction.X + r.startPos.Y * r.direction.Y - center.X * r.direction.X - center.Y * r.direction.Y);
-		float c = r.startPos.X * r.startPos.X + r.startPos.Y * r.startPos.Y +
-			center.X * center.X + center.Y * center.Y - radius * radius - 2 * (center.X * r.startPos.X + center.Y * r.startPos.Y);
-		float delta =  b * b - 4 * a * c ;
-		if (delta < 0) return;
-		delta = sqrt(delta);
-		float t1 = (-b - delta) / 2 * a;
-		float t2 = (-b + delta) / 2 * a;
-		if (t1 < 0 && t2 < 0||t1>=outCurrentDepth&&t2>=outCurrentDepth) {
-			return;
-		}
-		if (t1 <= t2) {
-			outCurrentDepth = t1;
-		}
-		else outCurrentDepth = t2;
-		outColliderObj = this;
-	}
-	virtual void DrawSelf() {
+	void Intersection(const Ray& r, float& outCurrentDepth, Object*& outColliderObj) override;
+	inline void DrawSelf() override {
 		fillcircle(center.X,center.Y,radius);
 	}
 };

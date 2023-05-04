@@ -1,97 +1,149 @@
 ﻿  pch.cpp
+  Game.cpp
+E:\C++实现\Game\GameEasyXVersion\Src\Math.h(4,30): warning C4305: “初始化”: 从“double”到“float”截断
+E:\C++实现\Game\GameEasyXVersion\Src\Math.h(45,9): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Math.h(46,9): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(37,59): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(37,46): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(37,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(37,23): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(53,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(54,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(55,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(56,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(57,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(58,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(72,32): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(72,29): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(72,20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\InstrumentationBenchmark.h(10,1): warning C4005: “Benchmark”: 宏重定义
+E:\C++实现\Game\GameEasyXVersion\Src\InstrumentationBenchmark.h(4): message : 参见“Benchmark”的前一个定义
+E:\C++实现\Game\GameEasyXVersion\Src\Game.cpp(13,10): warning C4244: “参数”: 从“const float”转换到“DWORD”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Game.cpp(35,66): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Game.cpp(35,61): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Game.cpp(35,31): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Game.cpp(36,71): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Game.cpp(36,52): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Game.cpp(36,34): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Game.cpp(37,48): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Game.cpp(38,45): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+  InstrumentationBenchmark.cpp
+E:\C++实现\Game\GameEasyXVersion\Src\InstrumentationBenchmark.h(10,1): warning C4005: “Benchmark”: 宏重定义
+E:\C++实现\Game\GameEasyXVersion\Src\InstrumentationBenchmark.h(4): message : 参见“Benchmark”的前一个定义
   Math.cpp
 E:\C++实现\Game\GameEasyXVersion\Src\Math.h(4,30): warning C4305: “初始化”: 从“double”到“float”截断
 E:\C++实现\Game\GameEasyXVersion\Src\Math.h(45,9): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
 E:\C++实现\Game\GameEasyXVersion\Src\Math.h(46,9): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+  Object.cpp
+E:\C++实现\Game\GameEasyXVersion\Src\Math.h(4,30): warning C4305: “初始化”: 从“double”到“float”截断
+E:\C++实现\Game\GameEasyXVersion\Src\Math.h(45,9): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Math.h(46,9): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(37,59): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(37,46): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(37,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(37,23): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(53,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(54,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(55,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(56,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(57,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(58,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(72,32): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(72,29): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(72,20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
   Player.cpp
 E:\C++实现\Game\GameEasyXVersion\Src\Math.h(4,30): warning C4305: “初始化”: 从“double”到“float”截断
 E:\C++实现\Game\GameEasyXVersion\Src\Math.h(45,9): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
 E:\C++实现\Game\GameEasyXVersion\Src\Math.h(46,9): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Object.h(57,59): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Object.h(57,46): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Object.h(57,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Object.h(57,23): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Object.h(73,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Object.h(74,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Object.h(75,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Object.h(76,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Object.h(77,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Object.h(78,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Object.h(110,32): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Object.h(110,29): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Object.h(110,20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(39,24): warning C4018: “<”: 有符号/无符号不匹配
-E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(61,27): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(62,27): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(88,25): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(89,25): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(90,19): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(91,25): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(92,19): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(37,59): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(37,46): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(37,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(37,23): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(53,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(54,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(55,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(56,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(57,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(58,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(72,32): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(72,29): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(72,20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\InstrumentationBenchmark.h(10,1): warning C4005: “Benchmark”: 宏重定义
+E:\C++实现\Game\GameEasyXVersion\Src\InstrumentationBenchmark.h(4): message : 参见“Benchmark”的前一个定义
+E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(42,24): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(64,27): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(65,27): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(92,25): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
 E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(93,25): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(94,25): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(94,19): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
 E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(95,25): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(105,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(105,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(105,18): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(106,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(106,23): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(106,14): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(113,12): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(112,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(112,21): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(112,12): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(115,13): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(114,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(114,21): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(114,12): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(121,12): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(120,12): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(119,12): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(118,16): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(96,19): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(97,25): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(98,25): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(99,25): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(109,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(109,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(109,18): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(110,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(110,23): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(110,14): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(117,12): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(116,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(116,21): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(116,12): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(119,13): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(118,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(118,21): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(118,12): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(125,12): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(124,12): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(123,12): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Player.cpp(122,16): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
   Main.cpp
 E:\C++实现\Game\GameEasyXVersion\Src\Math.h(4,30): warning C4305: “初始化”: 从“double”到“float”截断
 E:\C++实现\Game\GameEasyXVersion\Src\Math.h(45,9): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
 E:\C++实现\Game\GameEasyXVersion\Src\Math.h(46,9): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Object.h(57,59): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Object.h(57,46): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Object.h(57,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Object.h(57,23): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Object.h(73,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Object.h(74,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Object.h(75,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Object.h(76,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Object.h(77,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Object.h(78,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Object.h(110,32): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Object.h(110,29): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Object.h(110,20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Main.cpp(30,20): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Main.cpp(30,45): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Main.cpp(30,40): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Main.cpp(31,23): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Main.cpp(31,45): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Main.cpp(31,36): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Main.cpp(32,37): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Main.cpp(33,34): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Main.cpp(60,9): warning C4244: “参数”: 从“float”转换到“DWORD”，可能丢失数据
-E:\C++实现\Game\GameEasyXVersion\Src\Main.cpp(21,6): warning C4101: “t”: 未引用的局部变量
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(37,59): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(37,46): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(37,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(37,23): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(53,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(54,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(55,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(56,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(57,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(58,21): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(72,32): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(72,29): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\Object.h(72,20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++实现\Game\GameEasyXVersion\Src\InstrumentationBenchmark.h(10,1): warning C4005: “Benchmark”: 宏重定义
+E:\C++实现\Game\GameEasyXVersion\Src\InstrumentationBenchmark.h(4): message : 参见“Benchmark”的前一个定义
   正在生成代码
-  Previous IPDB not found, fall back to full compilation.
-  All 112 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  223 of 229 functions (97.4%) were compiled, the rest were copied from previous compilation.
+    153 functions were new in current compilation
+    5 functions had inline decision re-evaluated but remain unchanged
   已完成代码的生成
   GameEasyXVersion.vcxproj -> E:\C++实现\Game\Release\GameEasyXVersion.exe
 
 项目性能摘要:
-     1240 毫秒 E:\C++实现\Game\GameEasyXVersion\GameEasyXVersion.vcxproj   1 次调用
-               1240 毫秒 Build                                      1 次调用
+     1766 毫秒 E:\C++实现\Game\GameEasyXVersion\GameEasyXVersion.vcxproj   1 次调用
+               1766 毫秒 Build                                      1 次调用
 
 目标性能摘要:
         0 毫秒 AfterBuildCompileEvent                     1 次调用
+        0 毫秒 _Manifest                                  1 次调用
+        0 毫秒 _ALink                                     1 次调用
+        0 毫秒 _Link                                      1 次调用
+        0 毫秒 AfterLink                                  1 次调用
+        0 毫秒 ComputeLinkImportLibraryOutputsForClean    1 次调用
+        0 毫秒 PreLinkEvent                               1 次调用
+        0 毫秒 DoLinkOutputFilesMatch                     1 次调用
+        0 毫秒 MakeDirsForLink                            1 次调用
         0 毫秒 PrepareResourceNames                       1 次调用
         0 毫秒 CreateCustomManifestResourceNames          1 次调用
-        0 毫秒 PostBuildEvent                             1 次调用
-        0 毫秒 ComputeLinkInputsFromProject               1 次调用
+        0 毫秒 SplitResourcesByCulture                    1 次调用
+        0 毫秒 RegisterOutput                             1 次调用
+        0 毫秒 AssignTargetPaths                          1 次调用
         0 毫秒 ComputeCLGeneratedLinkInputs               1 次调用
         0 毫秒 ComputeCLOutputs                           1 次调用
         0 毫秒 ComputeManifestGeneratedLinkerInputs       1 次调用
@@ -102,55 +154,53 @@ E:\C++实现\Game\GameEasyXVersion\Src\Main.cpp(21,6): warning C4101: “t”: �
         0 毫秒 BuildLinkTraverse                          1 次调用
         0 毫秒 BuildCompile                               1 次调用
         0 毫秒 _BuildCompileAction                        1 次调用
-        0 毫秒 FinalizeBuildStatus                        1 次调用
         0 毫秒 _ResourceCompile                           1 次调用
+        0 毫秒 ComputeLinkInputsFromProject               1 次调用
         0 毫秒 AfterResourceCompile                       1 次调用
-        0 毫秒 MakeDirsForResourceCompile                 1 次调用
-        0 毫秒 BeforeResourceCompile                      1 次调用
-        0 毫秒 _ClCompile                                 1 次调用
-        0 毫秒 _CopySourceItemsToOutputDirectory          1 次调用
-        0 毫秒 DoLinkOutputFilesMatch                     1 次调用
-        0 毫秒 PreLinkEvent                               1 次调用
-        0 毫秒 ComputeLinkSwitches                        1 次调用
+        0 毫秒 ResolvedXDCMake                            1 次调用
+        0 毫秒 MakeDirsForXdcMake                         1 次调用
+        0 毫秒 IncrementalClean                           1 次调用
+        0 毫秒 AfterBuild                                 1 次调用
+        0 毫秒 BuildLink                                  1 次调用
+        0 毫秒 _BuildLinkAction                           1 次调用
+        0 毫秒 PostBuildEvent                             1 次调用
         0 毫秒 PrepareForRun                              1 次调用
+        0 毫秒 CopyFilesToOutputDirectory                 1 次调用
+        0 毫秒 _CheckForCompileOutputs                    1 次调用
+        0 毫秒 _CopySourceItemsToOutputDirectory          1 次调用
+        0 毫秒 _GetCopyToOutputDirectoryItemsFromThisProject   1 次调用
+        0 毫秒 _GetCopyToOutputDirectoryItemsFromTransitiveProjectReferences   1 次调用
+        0 毫秒 ComputeCLCompileGeneratedXDCFiles          1 次调用
         0 毫秒 GetCopyToOutputDirectoryXamlAppDefs        1 次调用
-        0 毫秒 _PopulateCommonStateForGetCopyToOutputDirectoryItems   1 次调用
         0 毫秒 _Deploy                                    1 次调用
         0 毫秒 _Appverifier                               1 次调用
         0 毫秒 CreateSatelliteAssemblies                  1 次调用
         0 毫秒 _GenerateSatelliteAssemblyInputs           1 次调用
-        0 毫秒 _CheckForCompileOutputs                    1 次调用
+        0 毫秒 ContentFilesProjectOutputGroup             1 次调用
         0 毫秒 MakeDirsForFxc                             1 次调用
-        0 毫秒 CopyFilesToOutputDirectory                 1 次调用
-        0 毫秒 BuiltProjectOutputGroup                    1 次调用
-        0 毫秒 _BuildLinkAction                           1 次调用
+        0 毫秒 SatelliteDllsProjectOutputGroup            1 次调用
         0 毫秒 _BscMake                                   1 次调用
+        0 毫秒 MakeDirsForBscMake                         1 次调用
         0 毫秒 ComputeCLCompileGeneratedSbrFiles          1 次调用
         0 毫秒 _XdcMake                                   1 次调用
-        0 毫秒 MakeDirsForXdcMake                         1 次调用
-        0 毫秒 ComputeCLCompileGeneratedXDCFiles          1 次调用
-        0 毫秒 RegisterOutput                             1 次调用
-        0 毫秒 _Manifest                                  1 次调用
-        0 毫秒 _ALink                                     1 次调用
-        0 毫秒 _Link                                      1 次调用
-        0 毫秒 AfterLink                                  1 次调用
-        0 毫秒 ComputeLinkImportLibraryOutputsForClean    1 次调用
-        0 毫秒 MakeDirsForBscMake                         1 次调用
-        0 毫秒 SelectClCompile                            1 次调用
-        0 毫秒 AfterClCompile                             1 次调用
-        0 毫秒 FixupCLCompileOptions                      1 次调用
-        0 毫秒 AfterBuild                                 1 次调用
+        0 毫秒 _PopulateCommonStateForGetCopyToOutputDirectoryItems   1 次调用
+        0 毫秒 MakeDirsForResourceCompile                 1 次调用
+        0 毫秒 Build                                      1 次调用
+        0 毫秒 _ClCompile                                 1 次调用
+        0 毫秒 _SelectedFiles                             1 次调用
+        0 毫秒 BeforeResourceCompile                      1 次调用
+        0 毫秒 BeforeBuildGenerateSources                 1 次调用
+        0 毫秒 BuildGenerateSourcesTraverse               1 次调用
         0 毫秒 ResolveReferences                          1 次调用
         0 毫秒 AfterResolveReferences                     1 次调用
         0 毫秒 ResolveAssemblyReferences                  1 次调用
         0 毫秒 ExpandSDKReferences                        1 次调用
         0 毫秒 ResolveSDKReferences                       1 次调用
-        0 毫秒 IncrementalClean                           1 次调用
         0 毫秒 SetCABuildNativeEnvironmentVariables       1 次调用
         0 毫秒 _CheckWindowsSDKInstalled                  1 次调用
+        0 毫秒 SelectCustomBuild                          1 次调用
         0 毫秒 GetResolvedWinMD                           1 次调用
-        0 毫秒 MakeDirsForCl                              1 次调用
-        0 毫秒 SetBuildDefaultEnvironmentVariables        1 次调用
+        0 毫秒 GetReferenceAssemblyPaths                  1 次调用
         0 毫秒 GetFrameworkPaths                          1 次调用
         0 毫秒 ResolveProjectReferences                   1 次调用
         0 毫秒 PrepareProjectReferences                   1 次调用
@@ -161,72 +211,65 @@ E:\C++实现\Game\GameEasyXVersion\Src\Main.cpp(21,6): warning C4101: “t”: �
         0 毫秒 _PrepareForReferenceResolution             1 次调用
         0 毫秒 _PrepareForBuild                           1 次调用
         0 毫秒 SetTelemetryEnvironmentVariables           1 次调用
-        0 毫秒 GetReferenceAssemblyPaths                  1 次调用
-        0 毫秒 BeforeBuildGenerateSources                 1 次调用
-        0 毫秒 BuildGenerateSourcesTraverse               1 次调用
+        0 毫秒 AddExternalIncludDirectoriesToPaths        1 次调用
+        0 毫秒 ComputeCustomBuildOutput                   1 次调用
         0 毫秒 PreBuildEvent                              1 次调用
-        0 毫秒 ComputeReferenceCLInput                    1 次调用
-        0 毫秒 GetReferencedVCProjectsInfo                1 次调用
-        0 毫秒 FindReferenceAssembliesForReferences       1 次调用
-        0 毫秒 ComputeCLInputPDBName                      1 次调用
-        0 毫秒 BeforeClCompile                            1 次调用
         0 毫秒 BuildCompileTraverse                       1 次调用
+        0 毫秒 BeforeClCompile                            1 次调用
+        0 毫秒 GetReferencedVCProjectsInfo                1 次调用
         0 毫秒 BuildGenerateSources                       1 次调用
+        0 毫秒 ComputeReferenceCLInput                    1 次调用
         0 毫秒 _BuildGenerateSourcesAction                1 次调用
         0 毫秒 AfterBuildGenerateSourcesEvent             1 次调用
+        0 毫秒 ComputeCLInputPDBName                      1 次调用
         0 毫秒 AfterBuildGenerateSources                  1 次调用
-        0 毫秒 _Midl                                      1 次调用
-        0 毫秒 _GetCopyToOutputDirectoryItemsFromTransitiveProjectReferences   1 次调用
-        0 毫秒 ComputeMIDLGeneratedCompileInputs          1 次调用
-        0 毫秒 _SelectedFiles                             1 次调用
-        0 毫秒 SelectCustomBuild                          1 次调用
-        0 毫秒 ComputeCustomBuildOutput                   1 次调用
+        0 毫秒 MakeDirsForCl                              1 次调用
         0 毫秒 AfterMidl                                  1 次调用
-        0 毫秒 BuildLink                                  1 次调用
-        0 毫秒 _Xsd                                       1 次调用
+        0 毫秒 SelectClCompile                            1 次调用
+        0 毫秒 ComputeMIDLGeneratedCompileInputs          1 次调用
         0 毫秒 MakeDirsForMidl                            1 次调用
-        0 毫秒 CopyFileToFolders                          1 次调用
-        1 毫秒 _GetProjectReferenceTargetFrameworkProperties   1 次调用
-        1 毫秒 WarnCompileDuplicatedFilename              1 次调用
-        1 毫秒 ComputeManifestInputsTargets               1 次调用
-        1 毫秒 ResolvedXDCMake                            1 次调用
-        1 毫秒 ContentFilesProjectOutputGroup             1 次调用
-        1 毫秒 MakeDirsForLink                            1 次调用
-        1 毫秒 AddExternalIncludDirectoriesToPaths        1 次调用
-        1 毫秒 SplitResourcesByCulture                    1 次调用
-        1 毫秒 Build                                      1 次调用
-        1 毫秒 SatelliteDllsProjectOutputGroup            1 次调用
-        1 毫秒 AssignTargetPaths                          1 次调用
+        0 毫秒 AfterClCompile                             1 次调用
+        0 毫秒 _Xsd                                       1 次调用
+        0 毫秒 _Midl                                      1 次调用
+        0 毫秒 FindReferenceAssembliesForReferences       1 次调用
+        1 毫秒 CreateRecipeFile                           1 次调用
+        1 毫秒 ComputeLinkSwitches                        1 次调用
         1 毫秒 CustomBuild                                1 次调用
+        1 毫秒 _GetProjectReferenceTargetFrameworkProperties   1 次调用
+        1 毫秒 CopyFileToFolders                          1 次调用
+        1 毫秒 GetCopyToOutputDirectoryItems              1 次调用
+        1 毫秒 BuiltProjectOutputGroup                    1 次调用
+        1 毫秒 FixupCLCompileOptions                      1 次调用
+        1 毫秒 WarnCompileDuplicatedFilename              1 次调用
+        1 毫秒 FinalizeBuildStatus                        1 次调用
         1 毫秒 _CheckForInvalidConfigurationAndPlatform   1 次调用
-        2 毫秒 _CleanGetCurrentAndPriorFileWrites         1 次调用
+        1 毫秒 _CleanGetCurrentAndPriorFileWrites         1 次调用
+        1 毫秒 SetBuildDefaultEnvironmentVariables        1 次调用
+        1 毫秒 ComputeManifestInputsTargets               1 次调用
+        2 毫秒 PrepareForBuild                            1 次调用
         2 毫秒 InitializeBuildStatus                      1 次调用
-        2 毫秒 _GetCopyToOutputDirectoryItemsFromThisProject   1 次调用
-        3 毫秒 PrepareForBuild                            1 次调用
-        3 毫秒 GetCopyToOutputDirectoryItems              1 次调用
-       11 毫秒 CreateRecipeFile                           1 次调用
-      331 毫秒 Link                                       1 次调用
-      871 毫秒 ClCompile                                  1 次调用
+      411 毫秒 Link                                       1 次调用
+     1336 毫秒 ClCompile                                  1 次调用
 
 任务性能摘要:
-        0 毫秒 Delete                                     3 次调用
-        0 毫秒 SetEnv                                     9 次调用
-        0 毫秒 AssignProjectConfiguration                 1 次调用
-        0 毫秒 MSBuild                                    1 次调用
-        0 毫秒 MakeDir                                   10 次调用
-        0 毫秒 CheckVCToolsetVersion                      1 次调用
-        0 毫秒 WriteLinesToFile                           1 次调用
-        0 毫秒 ConvertToAbsolutePath                      1 次调用
+        0 毫秒 Message                                    3 次调用
         0 毫秒 FindUnderPath                              5 次调用
-        1 毫秒 ReadLinesFromFile                          2 次调用
-        1 毫秒 RemoveDuplicates                           2 次调用
-        1 毫秒 AssignCulture                              1 次调用
-        1 毫秒 CreateItem                                 2 次调用
-        1 毫秒 Touch                                      2 次调用
-        1 毫秒 AssignTargetPath                           7 次调用
+        0 毫秒 ConvertToAbsolutePath                      1 次调用
+        0 毫秒 CreateItem                                 2 次调用
+        0 毫秒 AssignCulture                              1 次调用
+        0 毫秒 AssignTargetPath                           7 次调用
+        0 毫秒 RemoveDuplicates                           2 次调用
+        0 毫秒 Delete                                     2 次调用
+        0 毫秒 MakeDir                                   10 次调用
+        0 毫秒 AssignProjectConfiguration                 1 次调用
+        1 毫秒 CheckVCToolsetVersion                      1 次调用
+        1 毫秒 GenerateDesktopDeployRecipe                1 次调用
+        1 毫秒 MSBuild                                    1 次调用
         1 毫秒 GetOutOfDateItems                          3 次调用
-        1 毫秒 Message                                    3 次调用
-        3 毫秒 CallTarget                                 2 次调用
-       11 毫秒 GenerateDesktopDeployRecipe                1 次调用
-      330 毫秒 Link                                       1 次调用
-      871 毫秒 CL                                         2 次调用
+        1 毫秒 CallTarget                                 2 次调用
+        1 毫秒 ReadLinesFromFile                          2 次调用
+        1 毫秒 Touch                                      2 次调用
+        1 毫秒 WriteLinesToFile                           1 次调用
+        1 毫秒 SetEnv                                     9 次调用
+      411 毫秒 Link                                       1 次调用
+     1335 毫秒 CL                                         2 次调用

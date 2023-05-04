@@ -1,24 +1,27 @@
 #include"pch.h"
 #include"Player.h"
+#include"InstrumentationBenchmark.h"
 Player::Player(Point2 pos, Vector2 forward) :m_forward(forward),m_pos(pos)
 {
 	m_speed = 60, m_radius = 5, m_rotateSpeed=30;
 	m_sampleAngle = fieldAngle / sampleNum;
+	for (auto& i : hitInfo) {
+		i = nullptr;
+	}
 }
-
-void Player::Movement(std::string& dir,float deltaTime)
+void Player::Movement(std::string_view& outDir,float deltaTime)
 {
 	if (KEY_DOWN('W')) {
-		m_pos += m_forward * m_speed* deltaTime; dir = "up";
+		m_pos += m_forward * m_speed * deltaTime; outDir = std::string_view(stringView, 2);
 	}
 	if (KEY_DOWN('S')) {
-		m_pos -= m_forward * m_speed* deltaTime; dir = "down";
+		m_pos -= m_forward * m_speed* deltaTime; outDir = std::string_view(stringView+2, 4);
 	}
 	if (KEY_DOWN('A')) {
-		m_pos -= m_forward.Rotate(90) * m_speed* deltaTime; dir = "left";
+		m_pos -= m_forward.Rotate(90) * m_speed* deltaTime; outDir = std::string_view(stringView+6, 4);
 	}
 	if (KEY_DOWN('D')) {
-		m_pos += m_forward.Rotate(90) * m_speed* deltaTime; dir = "right";
+		m_pos += m_forward.Rotate(90) * m_speed* deltaTime; outDir = std::string_view(stringView+10, 5);
 	}
 }
 void Player::CalculateRay(Object** objs, int objsNum)
@@ -64,6 +67,7 @@ void Player::Rotation(float deltaTime)
 
 void Player::RenderScene(float centerX,float centerY)
 {
+	Benchmark()
 	float dx = centerX * 2 / sampleNum;
 	float h0 = centerY * 2 * closeDepth / rayDepths[0];
 	float h1;

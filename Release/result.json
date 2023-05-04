@@ -1,0 +1,772 @@
+{"displayTimeUnit":"ms","traceEvents":[
+{
+"name":"__thiscall GameFramework::Game::Game(int,int)",
+"cat":"Test",
+"ph":"X",
+"ts":187816133841,
+"pid":0,
+"tid":0,
+"dur":55919,
+"args":{"endts":187816189760 }
+},
+{
+"name":"void __thiscall GameFramework::Game::OnAwake(void)",
+"cat":"Test",
+"ph":"X",
+"ts":187816190331,
+"pid":0,
+"tid":0,
+"dur":200,
+"args":{"endts":187816190531 }
+},
+{
+"name":"void __thiscall GameFramework::Game::OnStart(void)",
+"cat":"Test",
+"ph":"X",
+"ts":187816190568,
+"pid":0,
+"tid":0,
+"dur":5,
+"args":{"endts":187816190573 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187816220283,
+"pid":0,
+"tid":0,
+"dur":5015,
+"args":{"endts":187816225298 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187816265634,
+"pid":0,
+"tid":0,
+"dur":5236,
+"args":{"endts":187816270870 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187816296133,
+"pid":0,
+"tid":0,
+"dur":5841,
+"args":{"endts":187816301974 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187816327099,
+"pid":0,
+"tid":0,
+"dur":5107,
+"args":{"endts":187816332206 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187816358467,
+"pid":0,
+"tid":0,
+"dur":5037,
+"args":{"endts":187816363504 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187816388437,
+"pid":0,
+"tid":0,
+"dur":5085,
+"args":{"endts":187816393522 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187816419239,
+"pid":0,
+"tid":0,
+"dur":5149,
+"args":{"endts":187816424388 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187816450197,
+"pid":0,
+"tid":0,
+"dur":5117,
+"args":{"endts":187816455314 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187816481288,
+"pid":0,
+"tid":0,
+"dur":5174,
+"args":{"endts":187816486462 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187816511379,
+"pid":0,
+"tid":0,
+"dur":5020,
+"args":{"endts":187816516399 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187816542653,
+"pid":0,
+"tid":0,
+"dur":5158,
+"args":{"endts":187816547811 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187816574431,
+"pid":0,
+"tid":0,
+"dur":5205,
+"args":{"endts":187816579636 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187816606045,
+"pid":0,
+"tid":0,
+"dur":5614,
+"args":{"endts":187816611659 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187816636356,
+"pid":0,
+"tid":0,
+"dur":4986,
+"args":{"endts":187816641342 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187816668715,
+"pid":0,
+"tid":0,
+"dur":4896,
+"args":{"endts":187816673611 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187816700245,
+"pid":0,
+"tid":0,
+"dur":5127,
+"args":{"endts":187816705372 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187816730778,
+"pid":0,
+"tid":0,
+"dur":4966,
+"args":{"endts":187816735744 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187816762261,
+"pid":0,
+"tid":0,
+"dur":4873,
+"args":{"endts":187816767134 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187816793968,
+"pid":0,
+"tid":0,
+"dur":5322,
+"args":{"endts":187816799290 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187816824316,
+"pid":0,
+"tid":0,
+"dur":4900,
+"args":{"endts":187816829216 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187816855757,
+"pid":0,
+"tid":0,
+"dur":5169,
+"args":{"endts":187816860926 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187816887264,
+"pid":0,
+"tid":0,
+"dur":5189,
+"args":{"endts":187816892453 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187816919234,
+"pid":0,
+"tid":0,
+"dur":5102,
+"args":{"endts":187816924336 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187816951193,
+"pid":0,
+"tid":0,
+"dur":4126,
+"args":{"endts":187816955319 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187816983143,
+"pid":0,
+"tid":0,
+"dur":4068,
+"args":{"endts":187816987211 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187817013483,
+"pid":0,
+"tid":0,
+"dur":4202,
+"args":{"endts":187817017685 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187817045570,
+"pid":0,
+"tid":0,
+"dur":5531,
+"args":{"endts":187817051101 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187817077137,
+"pid":0,
+"tid":0,
+"dur":4653,
+"args":{"endts":187817081790 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187817109118,
+"pid":0,
+"tid":0,
+"dur":4139,
+"args":{"endts":187817113257 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187817139030,
+"pid":0,
+"tid":0,
+"dur":4226,
+"args":{"endts":187817143256 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187817169447,
+"pid":0,
+"tid":0,
+"dur":4391,
+"args":{"endts":187817173838 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187817199950,
+"pid":0,
+"tid":0,
+"dur":4819,
+"args":{"endts":187817204769 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187817231348,
+"pid":0,
+"tid":0,
+"dur":4477,
+"args":{"endts":187817235825 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187817261527,
+"pid":0,
+"tid":0,
+"dur":4658,
+"args":{"endts":187817266185 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187817293114,
+"pid":0,
+"tid":0,
+"dur":4917,
+"args":{"endts":187817298031 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187817324740,
+"pid":0,
+"tid":0,
+"dur":5096,
+"args":{"endts":187817329836 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187817356318,
+"pid":0,
+"tid":0,
+"dur":5026,
+"args":{"endts":187817361344 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187817387595,
+"pid":0,
+"tid":0,
+"dur":5096,
+"args":{"endts":187817392691 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187817419309,
+"pid":0,
+"tid":0,
+"dur":5089,
+"args":{"endts":187817424398 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187817449779,
+"pid":0,
+"tid":0,
+"dur":5213,
+"args":{"endts":187817454992 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187817481369,
+"pid":0,
+"tid":0,
+"dur":5044,
+"args":{"endts":187817486413 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187817511377,
+"pid":0,
+"tid":0,
+"dur":4957,
+"args":{"endts":187817516334 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187817541961,
+"pid":0,
+"tid":0,
+"dur":5051,
+"args":{"endts":187817547012 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187817573224,
+"pid":0,
+"tid":0,
+"dur":5247,
+"args":{"endts":187817578471 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187817603261,
+"pid":0,
+"tid":0,
+"dur":4980,
+"args":{"endts":187817608241 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187817633676,
+"pid":0,
+"tid":0,
+"dur":5192,
+"args":{"endts":187817638868 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187817665465,
+"pid":0,
+"tid":0,
+"dur":5351,
+"args":{"endts":187817670816 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187817696891,
+"pid":0,
+"tid":0,
+"dur":5174,
+"args":{"endts":187817702065 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187817727928,
+"pid":0,
+"tid":0,
+"dur":6124,
+"args":{"endts":187817734052 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187817758374,
+"pid":0,
+"tid":0,
+"dur":5243,
+"args":{"endts":187817763617 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187817789833,
+"pid":0,
+"tid":0,
+"dur":5204,
+"args":{"endts":187817795037 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187817822050,
+"pid":0,
+"tid":0,
+"dur":5321,
+"args":{"endts":187817827371 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187817854150,
+"pid":0,
+"tid":0,
+"dur":5286,
+"args":{"endts":187817859436 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187817884977,
+"pid":0,
+"tid":0,
+"dur":5268,
+"args":{"endts":187817890245 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187817915440,
+"pid":0,
+"tid":0,
+"dur":5210,
+"args":{"endts":187817920650 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187817946604,
+"pid":0,
+"tid":0,
+"dur":5170,
+"args":{"endts":187817951774 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187817976724,
+"pid":0,
+"tid":0,
+"dur":4851,
+"args":{"endts":187817981575 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187818007656,
+"pid":0,
+"tid":0,
+"dur":4843,
+"args":{"endts":187818012499 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187818038688,
+"pid":0,
+"tid":0,
+"dur":4801,
+"args":{"endts":187818043489 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187818070223,
+"pid":0,
+"tid":0,
+"dur":4923,
+"args":{"endts":187818075146 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187818101748,
+"pid":0,
+"tid":0,
+"dur":4833,
+"args":{"endts":187818106581 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187818131639,
+"pid":0,
+"tid":0,
+"dur":4961,
+"args":{"endts":187818136600 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187818162785,
+"pid":0,
+"tid":0,
+"dur":4881,
+"args":{"endts":187818167666 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187818193382,
+"pid":0,
+"tid":0,
+"dur":4997,
+"args":{"endts":187818198379 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187818224324,
+"pid":0,
+"tid":0,
+"dur":4800,
+"args":{"endts":187818229124 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187818255271,
+"pid":0,
+"tid":0,
+"dur":4715,
+"args":{"endts":187818259986 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187818285373,
+"pid":0,
+"tid":0,
+"dur":4992,
+"args":{"endts":187818290365 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187818316203,
+"pid":0,
+"tid":0,
+"dur":4771,
+"args":{"endts":187818320974 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187818347255,
+"pid":0,
+"tid":0,
+"dur":4781,
+"args":{"endts":187818352036 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187818378280,
+"pid":0,
+"tid":0,
+"dur":4805,
+"args":{"endts":187818383085 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187818409237,
+"pid":0,
+"tid":0,
+"dur":4684,
+"args":{"endts":187818413921 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187818440668,
+"pid":0,
+"tid":0,
+"dur":4829,
+"args":{"endts":187818445497 }
+},
+{
+"name":"void __thiscall GameFramework::Game::OnUpdate(void)",
+"cat":"Test",
+"ph":"X",
+"ts":187816190596,
+"pid":0,
+"tid":0,
+"dur":2260212,
+"args":{"endts":187818450808 }
+},
+{
+"name":"void __thiscall GameFramework::Game::OnDestroy(void)",
+"cat":"Test",
+"ph":"X",
+"ts":187818450830,
+"pid":0,
+"tid":0,
+"dur":1,
+"args":{"endts":187818450831 }
+}
+]}

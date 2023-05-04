@@ -1,0 +1,572 @@
+{"displayTimeUnit":"ms","traceEvents":[
+{
+"name":"__thiscall GameFramework::Game::Game(int,int)",
+"cat":"Test",
+"ph":"X",
+"ts":187608133762,
+"pid":0,
+"tid":0,
+"dur":104038,
+"args":{"endts":187608237800 }
+},
+{
+"name":"void __thiscall GameFramework::Game::OnAwake(void)",
+"cat":"Test",
+"ph":"X",
+"ts":187608237943,
+"pid":0,
+"tid":0,
+"dur":38,
+"args":{"endts":187608237981 }
+},
+{
+"name":"void __thiscall GameFramework::Game::OnStart(void)",
+"cat":"Test",
+"ph":"X",
+"ts":187608238012,
+"pid":0,
+"tid":0,
+"dur":4,
+"args":{"endts":187608238016 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187608259800,
+"pid":0,
+"tid":0,
+"dur":4728,
+"args":{"endts":187608264528 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187608290555,
+"pid":0,
+"tid":0,
+"dur":4496,
+"args":{"endts":187608295051 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187608321765,
+"pid":0,
+"tid":0,
+"dur":4431,
+"args":{"endts":187608326196 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187608352823,
+"pid":0,
+"tid":0,
+"dur":4346,
+"args":{"endts":187608357169 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187608384102,
+"pid":0,
+"tid":0,
+"dur":4337,
+"args":{"endts":187608388439 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187608416144,
+"pid":0,
+"tid":0,
+"dur":4302,
+"args":{"endts":187608420446 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187608448579,
+"pid":0,
+"tid":0,
+"dur":4733,
+"args":{"endts":187608453312 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187608480198,
+"pid":0,
+"tid":0,
+"dur":5094,
+"args":{"endts":187608485292 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187608511187,
+"pid":0,
+"tid":0,
+"dur":4300,
+"args":{"endts":187608515487 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187608542266,
+"pid":0,
+"tid":0,
+"dur":4406,
+"args":{"endts":187608546672 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187608573330,
+"pid":0,
+"tid":0,
+"dur":4415,
+"args":{"endts":187608577745 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187608604365,
+"pid":0,
+"tid":0,
+"dur":4448,
+"args":{"endts":187608608813 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187608636363,
+"pid":0,
+"tid":0,
+"dur":4379,
+"args":{"endts":187608640742 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187608668372,
+"pid":0,
+"tid":0,
+"dur":5394,
+"args":{"endts":187608673766 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187608699322,
+"pid":0,
+"tid":0,
+"dur":4390,
+"args":{"endts":187608703712 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187608729283,
+"pid":0,
+"tid":0,
+"dur":4412,
+"args":{"endts":187608733695 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187608760871,
+"pid":0,
+"tid":0,
+"dur":4027,
+"args":{"endts":187608764898 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187608791637,
+"pid":0,
+"tid":0,
+"dur":4204,
+"args":{"endts":187608795841 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187608823294,
+"pid":0,
+"tid":0,
+"dur":4587,
+"args":{"endts":187608827881 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187608853742,
+"pid":0,
+"tid":0,
+"dur":4531,
+"args":{"endts":187608858273 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187608885130,
+"pid":0,
+"tid":0,
+"dur":4050,
+"args":{"endts":187608889180 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187608916345,
+"pid":0,
+"tid":0,
+"dur":4210,
+"args":{"endts":187608920555 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187608947909,
+"pid":0,
+"tid":0,
+"dur":4110,
+"args":{"endts":187608952019 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187608977660,
+"pid":0,
+"tid":0,
+"dur":4098,
+"args":{"endts":187608981758 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187609008337,
+"pid":0,
+"tid":0,
+"dur":4698,
+"args":{"endts":187609013035 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187609039246,
+"pid":0,
+"tid":0,
+"dur":4188,
+"args":{"endts":187609043434 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187609070227,
+"pid":0,
+"tid":0,
+"dur":4296,
+"args":{"endts":187609074523 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187609101311,
+"pid":0,
+"tid":0,
+"dur":5706,
+"args":{"endts":187609107017 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187609132351,
+"pid":0,
+"tid":0,
+"dur":4549,
+"args":{"endts":187609136900 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187609164694,
+"pid":0,
+"tid":0,
+"dur":4230,
+"args":{"endts":187609168924 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187609194203,
+"pid":0,
+"tid":0,
+"dur":4716,
+"args":{"endts":187609198919 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187609225937,
+"pid":0,
+"tid":0,
+"dur":4586,
+"args":{"endts":187609230523 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187609256402,
+"pid":0,
+"tid":0,
+"dur":4093,
+"args":{"endts":187609260495 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187609287799,
+"pid":0,
+"tid":0,
+"dur":4002,
+"args":{"endts":187609291801 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187609318855,
+"pid":0,
+"tid":0,
+"dur":4722,
+"args":{"endts":187609323577 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187609350371,
+"pid":0,
+"tid":0,
+"dur":4461,
+"args":{"endts":187609354832 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187609382509,
+"pid":0,
+"tid":0,
+"dur":4386,
+"args":{"endts":187609386895 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187609413975,
+"pid":0,
+"tid":0,
+"dur":4641,
+"args":{"endts":187609418616 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187609444232,
+"pid":0,
+"tid":0,
+"dur":4737,
+"args":{"endts":187609448969 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187609475106,
+"pid":0,
+"tid":0,
+"dur":4813,
+"args":{"endts":187609479919 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187609506089,
+"pid":0,
+"tid":0,
+"dur":4575,
+"args":{"endts":187609510664 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187609536377,
+"pid":0,
+"tid":0,
+"dur":4101,
+"args":{"endts":187609540478 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187609568082,
+"pid":0,
+"tid":0,
+"dur":4134,
+"args":{"endts":187609572216 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187609598040,
+"pid":0,
+"tid":0,
+"dur":4936,
+"args":{"endts":187609602976 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187609629219,
+"pid":0,
+"tid":0,
+"dur":5050,
+"args":{"endts":187609634269 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187609660807,
+"pid":0,
+"tid":0,
+"dur":4050,
+"args":{"endts":187609664857 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187609692612,
+"pid":0,
+"tid":0,
+"dur":4883,
+"args":{"endts":187609697495 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187609723045,
+"pid":0,
+"tid":0,
+"dur":5034,
+"args":{"endts":187609728079 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187609754282,
+"pid":0,
+"tid":0,
+"dur":4969,
+"args":{"endts":187609759251 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187609785083,
+"pid":0,
+"tid":0,
+"dur":4396,
+"args":{"endts":187609789479 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187609814811,
+"pid":0,
+"tid":0,
+"dur":3886,
+"args":{"endts":187609818697 }
+},
+{
+"name":"void __thiscall Player::RenderScene(float,float)",
+"cat":"Test",
+"ph":"X",
+"ts":187609845561,
+"pid":0,
+"tid":0,
+"dur":5006,
+"args":{"endts":187609850567 }
+},
+{
+"name":"void __thiscall GameFramework::Game::OnUpdate(void)",
+"cat":"Test",
+"ph":"X",
+"ts":187608238045,
+"pid":0,
+"tid":0,
+"dur":1617947,
+"args":{"endts":187609855992 }
+},
+{
+"name":"void __thiscall GameFramework::Game::OnDestroy(void)",
+"cat":"Test",
+"ph":"X",
+"ts":187609856049,
+"pid":0,
+"tid":0,
+"dur":0,
+"args":{"endts":187609856049 }
+}
+]}
